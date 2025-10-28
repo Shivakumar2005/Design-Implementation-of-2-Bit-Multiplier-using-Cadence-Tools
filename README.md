@@ -45,32 +45,38 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
+![WhatsApp Image 2025-10-28 at 17 27 54_6c77a30d](https://github.com/user-attachments/assets/59043e25-7831-4b9e-992e-293e00d22a5f)
+
 
 ![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
+![WhatsApp Image 2025-10-28 at 17 38 32_9176705a](https://github.com/user-attachments/assets/73e4a0f2-d93b-43e2-9eb8-494593dd3d29)
+
 
 ![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
 
 ### Schematicand Symbol of Half Adder:
-![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
+![WhatsApp Image 2025-10-28 at 17 44 05_93a72742](https://github.com/user-attachments/assets/fe46b69e-2ee2-4be4-a134-2e04cbb1aaef)
+
 
 ![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+![WhatsApp Image 2025-10-28 at 17 21 57_28c9e5ac](https://github.com/user-attachments/assets/f7e65591-d0f9-438d-8538-f730b56eefa8)
+
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
+![WhatsApp Image 2025-10-28 at 17 21 35_f1da4e6f](https://github.com/user-attachments/assets/b7421a03-a886-4eee-9da9-260d9486ed31)
+
 
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
 
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+![WhatsApp Image 2025-10-28 at 17 21 15_3dbf519c](https://github.com/user-attachments/assets/94c3a5de-e2bd-4406-8676-c0880bd75976)
+
 
 Run Time : 200ns
 
